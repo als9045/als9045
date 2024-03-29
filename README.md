@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=als9045&label=Profile%20views&color=0e75b6&style=flat" alt="als9045" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://url.kr/k3hju4](https://url.kr/k3hju4)
+- 👨‍💻 All of my projects are available at [https://zrr.kr/wxIc)
 
 - 📫 How to reach me **alstn4523@gmail.com**
 
