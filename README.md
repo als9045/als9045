@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA Badge">
 <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Apache Tomcat Badge">
 <img src="https://img.shields.io/badge/Naver%20Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Cloud Badge">
-<img src="https://img.shields.io/badge/PortSwigger-5829BB?style=for-the-badge&logo=portswigger&logoColor=white" alt="PortSwigger Badge">
 </div>
 
 
