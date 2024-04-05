@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://zrr.kr/wxIc)
 
-- 📫 How to reach me **alstn9045@naver.com**
+- 📫 How to reach me **als9045@naver.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
