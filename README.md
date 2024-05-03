@@ -7,8 +7,8 @@
 
 
 
-<h2 align="left">Hi 👋, I'm This is minsu Kim,A person who dreams of becoming a developer</h2>
-<h3 align="left">I want to be persistent and grow one step further than yesterday.</h3>
+<h2 align="left">안녕하세요 👋, 포기하지않고 꾸준히 전진하는 신입개발자입니다.</h2>
+<h3 align="left">어제 보다 1%라도 성장하는 사람이 되려고 노력합니다!!.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=als9045&label=Profile%20views&color=0e75b6&style=flat" alt="als9045" /> </p>
 
@@ -35,8 +35,15 @@
 <img src="https://img.shields.io/badge/Naver%20Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Cloud Badge">
 </div>
 
+<h3 align="left">Studying:</h3>
+<div>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot Badge">
+</div>
 
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=als9045&show_icons=true&locale=en&layout=compact" alt="als9045" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=als9045&show_icons=true&locale=en" alt="als9045" /></p>
